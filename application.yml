@@ -3,7 +3,7 @@ spring:
     name: greeting-service
 greeting-service:
   greeting: "Olá"
-  default-value: "Mundo - DEV"
+  default-value: "Mundo - DEV - 123"
 management:
   endpoints:
     web:
